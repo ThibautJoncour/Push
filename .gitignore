@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs/Push/FileContentIndex/340e3be0-a06e-4bdb-8cab-3a64e6a1b1c7.vsidx
+*.vsidx
+/.vs/Push/v17/.wsuo
+/.vs/Push/v17/DocumentLayout.json
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
