@@ -9,6 +9,7 @@ namespace ExempleDeClasse
         public string Prenom { get; set; }
         public string Nom { get; set; }
         public int Age { get; set; }
+        public int Breath { get; set; }
 
         // Constructeur
         public Personne(string prenom, string nom, int age)
